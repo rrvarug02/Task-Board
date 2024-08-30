@@ -3,3 +3,5 @@ I used Javascript to practice creating an interactive website that allows the us
 
 ## User Usage
 Click the "Add Task" button to open the modal. Fill in the task details and click "Add Task" to save. Drag and drop tasks between "To Do," "In Progress," and "Done" columns. Click the "Delete" button on a task card to remove it.
+
+Initial starter code was recieved by instructor.
