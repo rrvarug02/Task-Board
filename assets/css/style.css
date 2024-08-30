@@ -1,0 +1,34 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  background-color: rgb(37, 100, 87);
+}
+
+.swim-lanes {
+  min-height: 60vh;
+  background-color: rgb(111, 175, 154);
+}
+
+.task-card {
+  margin: 0 auto;
+}
+
+.task-card:hover {
+  cursor: grab;
+}
+
+h1 {
+  color:white;
+ }
+
+ .lead {
+  color: white;
+ }
+
+ .modal {
+  background-color: rgba(35, 90, 60, 0.5);
+}
+
+.modal-content {
+  background-color: rgb(111, 175, 154);
+}
